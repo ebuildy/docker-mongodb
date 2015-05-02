@@ -1,1 +1,3 @@
-mongod --config /var/config/mongodb.conf
+#!/bin/sh
+
+mongod --config /var/config/mongod.conf
