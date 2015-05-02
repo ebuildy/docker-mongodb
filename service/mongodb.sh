@@ -1,0 +1,1 @@
+mongod --config /var/config/mongodb.conf
